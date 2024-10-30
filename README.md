@@ -1,1 +1,1 @@
-link to Project : https://shopping-amazon.netlify.app/
+live at : https://shopping-amazon.netlify.app/
